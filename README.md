@@ -1,4 +1,4 @@
-﻿## ACadSharp ![Build&Test](https://github.com/DomCr/ACadSharp/actions/workflows/build_n_test.yml/badge.svg) ![License](https://img.shields.io/github/license/DomCr/ACadSharp) ![nuget](https://img.shields.io/nuget/v/Acadsharp)
+﻿## AutoCAD CSharp 
 
 C# library to read/write cad files like dxf/dwg.
 
@@ -39,7 +39,7 @@ private static void onNotification(object sender, NotificationEventArgs e)
 }
 ```
 
-For more examples [check](https://github.com/DomCR/ACadSharp/tree/master/ACadSharp.Examples).
+For more examples [check](https://github.com/jankozik/ACadSharp/tree/master/ACadSharp.Examples).
 
 WIP
 ---
